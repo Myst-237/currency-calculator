@@ -2,7 +2,7 @@ html {
   height: 100%;
 }
 body {
-  background-color: tan;
+  background-color: rgb(59, 187, 81);
   display: grid;
   place-content: center;
   height: 100%;
@@ -12,7 +12,7 @@ body {
 }
 
 .box {
-  background-color: lightblue;
+  background-color: rgb(127, 184, 157);
   padding: 20px;
   text-align: center;
   min-height: 400px;
